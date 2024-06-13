@@ -1,7 +1,4 @@
 # Football-Player-Transfer-Analysis
-Certainly! Here's a more professional and polished version of the description for the GitHub repository, focusing on data cleaning and preprocessing steps for the football player transfer analysis dataset:
-
----
 
 ### Football Player Transfer Analysis Dataset: Data Cleaning and Preprocessing
 
